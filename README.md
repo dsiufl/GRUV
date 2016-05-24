@@ -22,6 +22,8 @@ LAME (for MP3 source files): http://lame.sourceforge.net/
 
 SoX (for FLAC source files): http://sox.sourceforge.net/
 
+H5PY (HDF5 file tools for python): https://pypi.python.org/pypi/h5py
+
 Once that's taken care of, you can try training a model of your own as follows:
 # Step 1. Prepare the data
 Copy your music into ./datasets/YourMusicLibrary/ and type the following command into Terminal:
